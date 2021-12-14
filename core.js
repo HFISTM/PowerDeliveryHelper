@@ -106,7 +106,7 @@ const textNodes = [
     /* SOLUTION SINK */
     {
         id: 1000,
-        headtext: '<b>Legacy sink - no Power Delivery protocol needed</b>',
+        headtext: '<b>Legacy sink - no Power Delivery protocol needed</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp01-m12.html">TCPP01</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
@@ -118,7 +118,7 @@ const textNodes = [
     },
     {
         id: 1001,
-        headtext: '<b>Power Delivery + TCPP01</b>',
+        headtext: '<b>Power Delivery + TCPP01</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp01-m12.html">TCPP01</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
@@ -132,7 +132,7 @@ const textNodes = [
     /* SOLUTION SOURCE */
     {
         id: 2000,
-        headtext: '<b>Legacy source - no Power Delivery protocol needed</b>',
+        headtext: '<b>Legacy source - no Power Delivery protocol needed</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp02-m18.html">TCPP02</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
@@ -144,7 +144,7 @@ const textNodes = [
     },
     {
         id: 2001,
-        headtext: '<b>Power Delivery + TCPP02</b>',
+        headtext: '<b>Power Delivery + TCPP02</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp02-m18.html">TCPP02</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
@@ -158,7 +158,7 @@ const textNodes = [
     /* SOLUTION DRP */
     {
         id: 3000,
-        headtext: '<b>Power Delivery + TCPP03</b>',
+        headtext: '<b>Power Delivery + TCPP03</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp03-m20.html">TCPP03</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
