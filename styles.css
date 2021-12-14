@@ -5,14 +5,15 @@
 }
 
 body {
-    margin-left: 5%;
+    margin-left: 3rem;
     margin-top: 0px;
     background: #ffffff linear-gradient(#ffd200, #ffd200) repeat-y left top;
-    background-size: 3%;
+    background-size: 2rem;
 }
 
 .logo {
     width: auto;
+    max-width: 100%;
     height: 100%;
 }
 
@@ -20,9 +21,7 @@ body {
     width: auto;
     height: 50px;
     transition: .5s ease;
-    position: absolute;
-    right: 0.5rem;
-    bottom: 3rem;
+    margin-bottom: 3rem;
 }
 
 .home:hover {
@@ -40,7 +39,7 @@ body {
     height: 2.5rem;
     background-color: #03234B;
     color: white;
-    margin-left: 3%;
+    margin-left: 2rem;
 }
 
 .footer-text {
