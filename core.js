@@ -106,66 +106,71 @@ const textNodes = [
     /* SOLUTION SINK */
     {
         id: 1000,
-        headtext: '<b>Legacy sink - no Power Delivery protocol needed</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
+        headtext: '<b>Legacy sink - no Power Delivery protocol needed</b>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp01-m12.html">TCPP01</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
                         <a href="media/schem_SNK_No_UCPD.pdf" target="_blank">                                          \
                             <img class="img-schem" src="media/schem_SNK_No_UCPD.svg">                                   \
                         </a>                                                                                            \
-                    </div>',
+                    </div>                                                                                              \
+                    <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
     {
         id: 1001,
-        headtext: '<b>Power Delivery + TCPP01</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
+        headtext: '<b>Power Delivery + TCPP01</b>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp01-m12.html">TCPP01</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
                         <a href="media/schem_SNK.pdf" target="_blank">                                                  \
                             <img class="img-schem" src="media/schem_SNK.svg">                                           \
                         </a>                                                                                            \
-                    </div>',
+                    </div>                                                                                              \
+                    <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
 
     /* SOLUTION SOURCE */
     {
         id: 2000,
-        headtext: '<b>Legacy source - no Power Delivery protocol needed</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
+        headtext: '<b>Legacy source - no Power Delivery protocol needed</b>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp02-m18.html">TCPP02</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
                         <a href="media/schem_SRC_No_UCPD.pdf" target="_blank">                                          \
                             <img class="img-schem" src="media/schem_SRC_No_UCPD.svg">                                   \
                         </a>                                                                                            \
-                    </div>',
+                    </div>                                                                                              \
+                    <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
     {
         id: 2001,
-        headtext: '<b>Power Delivery + TCPP02</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
+        headtext: '<b>Power Delivery + TCPP02</b>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp02-m18.html">TCPP02</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
                         <a href="media/schem_SRC.pdf" target="_blank">                                                  \
                             <img class="img-schem" src="media/schem_SRC.svg">                                           \
                         </a>                                                                                            \
-                    </div>',
+                    </div>                                                                                              \
+                    <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
 
     /* SOLUTION DRP */
     {
         id: 3000,
-        headtext: '<b>Power Delivery + TCPP03</b><br><a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
+        headtext: '<b>Power Delivery + TCPP03</b>',
         customHTML: 'Port protection IC: <a href="https://www.st.com/en/protection-devices/tcpp03-m20.html">TCPP03</a>  \
                     <br>                                                                                                \
                     <div class="schematics">                                                                            \
                         <a href="media/schem_DRP.pdf" target="_blank">                                                  \
                             <img class="img-schem" src="media/schem_DRP.svg">                                           \
                         </a>                                                                                            \
-                    </div>',
+                    </div>                                                                                              \
+                    <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
 ]
