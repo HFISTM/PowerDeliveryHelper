@@ -39,7 +39,7 @@ const textNodes = [
     /* MAIN MENU */
     {
         id: 1,
-        headtext: '<b>USB Type - C power solution</b> <br> Type of product:',
+        headtext: '<b>USB Type-C and Power Delivery Solutions</b> <br> Type of product:',
         customHTML: '',
         buttons: [{
                 text: 'Sink',
