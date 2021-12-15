@@ -114,6 +114,7 @@ const textNodes = [
                             <img class="img-schem" src="media/schem_SNK_No_UCPD.svg">                                   \
                         </a>                                                                                            \
                     </div>                                                                                              \
+                    <a class="exampleLink" href="https://wiki.st.com/stm32mcu/wiki/USB_Power_Delivery_overview#X-CUBE-TCPP" target="_blank">Wiki USBPD</a><br>   \
                     <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
@@ -127,6 +128,8 @@ const textNodes = [
                             <img class="img-schem" src="media/schem_SNK.svg">                                           \
                         </a>                                                                                            \
                     </div>                                                                                              \
+                    <a class="exampleLink" href="https://github.com/STMicroelectronics/x-cube-tcpp/tree/main/Projects/NUCLEO-G071RB/Applications/USB_PD/SNK1M1_Sink" target="_blank">Application example with G0</a><br>   \
+                    <a class="exampleLink" href="https://wiki.st.com/stm32mcu/wiki/USB_Power_Delivery_overview#X-CUBE-TCPP" target="_blank">Wiki USBPD</a> + <a class="exampleLink" href="https://wiki.st.com/stm32mcu/wiki/STM32StepByStep:STM32_Advance_USB-Power_Delivery_Sink" target="_blank">Wiki How to</a><br>   \
                     <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
@@ -142,6 +145,7 @@ const textNodes = [
                             <img class="img-schem" src="media/schem_SRC_No_UCPD.svg">                                   \
                         </a>                                                                                            \
                     </div>                                                                                              \
+                    <a class="exampleLink" href="https://wiki.st.com/stm32mcu/wiki/USB_Power_Delivery_overview#X-CUBE-TCPP" target="_blank">Wiki USBPD</a><br>   \
                     <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
@@ -155,6 +159,8 @@ const textNodes = [
                             <img class="img-schem" src="media/schem_SRC.svg">                                           \
                         </a>                                                                                            \
                     </div>                                                                                              \
+                    <a class="exampleLink" href="https://github.com/STMicroelectronics/x-cube-tcpp/tree/main/Projects/NUCLEO-G071RB/Applications/USB_PD/DRP1M1_DRP" target="_blank">Application example with G0</a><br>   \
+                    <a class="exampleLink" href="https://wiki.st.com/stm32mcu/wiki/USB_Power_Delivery_overview#X-CUBE-TCPP" target="_blank">Wiki USBPD</a> + <a class="exampleLink" href="https://wiki.st.com/stm32mcu/wiki/STM32StepByStep:STM32_Advance_USB-Power_Delivery_Source" target="_blank">Wiki How to</a><br>   \
                     <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
@@ -170,6 +176,8 @@ const textNodes = [
                             <img class="img-schem" src="media/schem_DRP.svg">                                           \
                         </a>                                                                                            \
                     </div>                                                                                              \
+                    <a class="exampleLink" href="https://github.com/STMicroelectronics/x-cube-tcpp/tree/main/Projects/NUCLEO-G071RB/Applications/USB_PD/DRP1M1_DRP" target="_blank">Application example with G0</a><br>   \
+                    <a class="exampleLink" href="https://wiki.st.com/stm32mcu/wiki/USB_Power_Delivery_overview#X-CUBE-TCPP" target="_blank">Wiki USBPD</a><br>   \
                     <a href="index.html"><img class="home" src="media/home.png" alt="home"></a>',
         buttons: []
     },
