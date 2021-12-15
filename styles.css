@@ -59,6 +59,7 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
     gap: 10px;
     margin-top: 20px;
+    margin-bottom: 3rem;
 }
 
 .btn {
@@ -69,12 +70,15 @@ body {
     color: black;
     font-size: 1rem;
     outline: none;
+    transition: .2s ease;
 }
 
 .btn:hover {
     background-color: #3CB4E6;
     border: 1px solid #3CB4E6;
     color: white;
+    transition: .2s ease;
+    cursor: pointer;
 }
 
 .btn-desc {
